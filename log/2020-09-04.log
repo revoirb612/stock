@@ -1,0 +1,118 @@
+[2020-09-04 17:08:47,849] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 17:09:18,711] I kiwoom.py | Kiwoom-login_slot-0099 I DEBUG    > 정상처리
+[2020-09-04 17:09:18,713] I kiwoom.py | Kiwoom-get_account_info-0111 I DEBUG    > 계좌번호 : 8143589511
+[2020-09-04 17:09:19,427] I kiwoom.py | Kiwoom-msg_slot-0805 I DEBUG    > 스크린: 2000, 요청이름: 예수금상세현황요청, tr코드: opw00001 --- [00Z310] 모의투자 조회가 완료되었습니다
+[2020-09-04 17:09:19,427] I kiwoom.py | Kiwoom-trdata_slot-0159 I DEBUG    > 예수금 : 10000000
+[2020-09-04 17:09:19,543] I kiwoom.py | Kiwoom-msg_slot-0805 I DEBUG    > 스크린: 2000, 요청이름: 계좌평가잔고내역요청, tr코드: opw00018 --- [00Z310] 모의투자 조회가 완료되었습니다
+[2020-09-04 17:09:19,544] I kiwoom.py | Kiwoom-trdata_slot-0177 I DEBUG    > 계좌평가잔고내역요청 싱글데이터 : 000000000000000 - 000000000000000 - 000000000.00
+[2020-09-04 17:09:19,544] I kiwoom.py | Kiwoom-trdata_slot-0225 I DEBUG    > sPreNext : 
+[2020-09-04 17:09:24,594] I kiwoom.py | Kiwoom-msg_slot-0805 I DEBUG    > 스크린: , 요청이름: , tr코드:  ---  조회가 완료되었습니다.
+[2020-09-04 17:15:13,689] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 17:15:17,156] I kiwoom.py | Kiwoom-login_slot-0097 I DEBUG    > 정상처리
+[2020-09-04 17:15:17,156] I kiwoom.py | Kiwoom-get_account_info-0109 I DEBUG    > 계좌번호 : 8143589511
+[2020-09-04 17:15:17,196] I kiwoom.py | Kiwoom-msg_slot-0803 I DEBUG    > 스크린: 2000, 요청이름: 예수금상세현황요청, tr코드: opw00001 --- [00Z310] 모의투자 조회가 완료되었습니다
+[2020-09-04 17:15:17,196] I kiwoom.py | Kiwoom-trdata_slot-0157 I DEBUG    > 예수금 : 10000000
+[2020-09-04 17:15:17,292] I kiwoom.py | Kiwoom-msg_slot-0803 I DEBUG    > 스크린: 2000, 요청이름: 계좌평가잔고내역요청, tr코드: opw00018 --- [00Z310] 모의투자 조회가 완료되었습니다
+[2020-09-04 17:15:17,294] I kiwoom.py | Kiwoom-trdata_slot-0175 I DEBUG    > 계좌평가잔고내역요청 싱글데이터 : 000000000000000 - 000000000000000 - 000000000.00
+[2020-09-04 17:15:17,295] I kiwoom.py | Kiwoom-trdata_slot-0223 I DEBUG    > sPreNext : 
+[2020-09-04 17:15:22,324] I kiwoom.py | Kiwoom-msg_slot-0803 I DEBUG    > 스크린: , 요청이름: , tr코드:  ---  조회가 완료되었습니다.
+[2020-09-04 17:16:14,652] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 17:16:18,211] I kiwoom.py | Kiwoom-login_slot-0096 I DEBUG    > 정상처리
+[2020-09-04 17:16:18,212] I kiwoom.py | Kiwoom-get_account_info-0107 I DEBUG    > 계좌번호 : 8143589511
+[2020-09-04 17:16:18,246] I kiwoom.py | Kiwoom-msg_slot-0804 I DEBUG    > 스크린: 2000, 요청이름: 예수금상세현황요청, tr코드: opw00001 --- [00Z310] 모의투자 조회가 완료되었습니다
+[2020-09-04 17:16:18,247] I kiwoom.py | Kiwoom-trdata_slot-0158 I DEBUG    > 예수금 : 10000000
+[2020-09-04 17:16:18,339] I kiwoom.py | Kiwoom-msg_slot-0804 I DEBUG    > 스크린: 2000, 요청이름: 계좌평가잔고내역요청, tr코드: opw00018 --- [00Z310] 모의투자 조회가 완료되었습니다
+[2020-09-04 17:16:18,342] I kiwoom.py | Kiwoom-trdata_slot-0176 I DEBUG    > 계좌평가잔고내역요청 싱글데이터 : 000000000000000 - 000000000000000 - 000000000.00
+[2020-09-04 17:16:18,342] I kiwoom.py | Kiwoom-trdata_slot-0224 I DEBUG    > sPreNext : 
+[2020-09-04 17:16:23,365] I kiwoom.py | Kiwoom-msg_slot-0804 I DEBUG    > 스크린: , 요청이름: , tr코드:  ---  조회가 완료되었습니다.
+[2020-09-04 17:20:14,432] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 17:20:17,913] I kiwoom.py | Kiwoom-login_slot-0096 I DEBUG    > 정상처리
+[2020-09-04 17:20:17,913] I kiwoom.py | Kiwoom-get_account_info-0107 I DEBUG    > 계좌번호 : 8143589511
+[2020-09-04 17:20:17,952] I kiwoom.py | Kiwoom-msg_slot-0802 I DEBUG    > 스크린: 2000, 요청이름: 예수금상세현황요청, tr코드: opw00001 --- [00Z310] 모의투자 조회가 완료되었습니다
+[2020-09-04 17:20:17,953] I kiwoom.py | Kiwoom-trdata_slot-0156 I DEBUG    > 예수금 : 10000000
+[2020-09-04 17:20:18,044] I kiwoom.py | Kiwoom-msg_slot-0802 I DEBUG    > 스크린: 2000, 요청이름: 계좌평가잔고내역요청, tr코드: opw00018 --- [00Z310] 모의투자 조회가 완료되었습니다
+[2020-09-04 17:20:18,046] I kiwoom.py | Kiwoom-trdata_slot-0174 I DEBUG    > 계좌평가잔고내역요청 싱글데이터 : 000000000000000 - 000000000000000 - 000000000.00
+[2020-09-04 17:20:18,047] I kiwoom.py | Kiwoom-trdata_slot-0222 I DEBUG    > sPreNext : 
+[2020-09-04 17:20:23,069] I kiwoom.py | Kiwoom-msg_slot-0802 I DEBUG    > 스크린: , 요청이름: , tr코드:  ---  조회가 완료되었습니다.
+[2020-09-04 17:25:45,145] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 17:25:48,715] I kiwoom.py | Kiwoom-login_slot-0096 I DEBUG    > 정상처리
+[2020-09-04 17:25:48,715] I kiwoom.py | Kiwoom-get_account_info-0107 I DEBUG    > 계좌번호 : 8143589511
+[2020-09-04 17:25:48,745] I kiwoom.py | Kiwoom-msg_slot-0802 I DEBUG    > 스크린: 2000, 요청이름: 예수금상세현황요청, tr코드: opw00001 --- [00Z310] 모의투자 조회가 완료되었습니다
+[2020-09-04 17:25:48,746] I kiwoom.py | Kiwoom-trdata_slot-0156 I DEBUG    > 예수금 : 10000000
+[2020-09-04 17:25:48,839] I kiwoom.py | Kiwoom-msg_slot-0802 I DEBUG    > 스크린: 2000, 요청이름: 계좌평가잔고내역요청, tr코드: opw00018 --- [00Z310] 모의투자 조회가 완료되었습니다
+[2020-09-04 17:25:48,841] I kiwoom.py | Kiwoom-trdata_slot-0174 I DEBUG    > 계좌평가잔고내역요청 싱글데이터 : 000000000000000 - 000000000000000 - 000000000.00
+[2020-09-04 17:25:48,841] I kiwoom.py | Kiwoom-trdata_slot-0222 I DEBUG    > sPreNext : 
+[2020-09-04 17:25:53,876] I kiwoom.py | Kiwoom-msg_slot-0802 I DEBUG    > 스크린: , 요청이름: , tr코드:  ---  조회가 완료되었습니다.
+[2020-09-04 17:27:48,237] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 17:27:52,394] I kiwoom.py | Kiwoom-login_slot-0098 I DEBUG    > 정상처리
+[2020-09-04 17:27:52,394] I kiwoom.py | Kiwoom-get_account_info-0109 I DEBUG    > 계좌번호 : 8143589511
+[2020-09-04 17:27:52,435] I kiwoom.py | Kiwoom-msg_slot-0804 I DEBUG    > 스크린: 2000, 요청이름: 예수금상세현황요청, tr코드: opw00001 --- [00Z310] 모의투자 조회가 완료되었습니다
+[2020-09-04 17:27:52,436] I kiwoom.py | Kiwoom-trdata_slot-0158 I DEBUG    > 예수금 : 10000000
+[2020-09-04 17:27:52,530] I kiwoom.py | Kiwoom-msg_slot-0804 I DEBUG    > 스크린: 2000, 요청이름: 계좌평가잔고내역요청, tr코드: opw00018 --- [00Z310] 모의투자 조회가 완료되었습니다
+[2020-09-04 17:27:52,531] I kiwoom.py | Kiwoom-trdata_slot-0176 I DEBUG    > 계좌평가잔고내역요청 싱글데이터 : 000000000000000 - 000000000000000 - 000000000.00
+[2020-09-04 17:27:52,532] I kiwoom.py | Kiwoom-trdata_slot-0224 I DEBUG    > sPreNext : 
+[2020-09-04 17:27:57,570] I kiwoom.py | Kiwoom-msg_slot-0804 I DEBUG    > 스크린: , 요청이름: , tr코드:  ---  조회가 완료되었습니다.
+[2020-09-04 20:33:37,713] I kiwoom.py | Kiwoom-login_slot-0098 I DEBUG    > 통신연결종료
+[2020-09-04 21:33:31,818] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 21:33:47,983] I kiwoom.py | Kiwoom-login_slot-0098 I DEBUG    > 정상처리
+[2020-09-04 21:33:47,983] I kiwoom.py | Kiwoom-get_account_info-0109 I DEBUG    > 계좌번호 : 8143589511
+[2020-09-04 21:33:48,025] I kiwoom.py | Kiwoom-msg_slot-0804 I DEBUG    > 스크린: 2000, 요청이름: 예수금상세현황요청, tr코드: opw00001 --- [00Z310] 모의투자 조회가 완료되었습니다
+[2020-09-04 21:33:48,026] I kiwoom.py | Kiwoom-trdata_slot-0158 I DEBUG    > 예수금 : 10000000
+[2020-09-04 21:33:48,627] I kiwoom.py | Kiwoom-msg_slot-0804 I DEBUG    > 스크린: 2000, 요청이름: 계좌평가잔고내역요청, tr코드: opw00018 --- [00Z310] 모의투자 조회가 완료되었습니다
+[2020-09-04 21:33:48,628] I kiwoom.py | Kiwoom-trdata_slot-0176 I DEBUG    > 계좌평가잔고내역요청 싱글데이터 : 000000000000000 - 000000000000000 - 000000000.00
+[2020-09-04 21:33:48,629] I kiwoom.py | Kiwoom-trdata_slot-0224 I DEBUG    > sPreNext : 
+[2020-09-04 21:33:53,672] I kiwoom.py | Kiwoom-msg_slot-0804 I DEBUG    > 스크린: , 요청이름: , tr코드:  ---  조회가 완료되었습니다.
+[2020-09-04 21:38:02,879] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 21:38:06,305] I kiwoom.py | Kiwoom-login_slot-0098 I DEBUG    > 정상처리
+[2020-09-04 21:38:06,305] I kiwoom.py | Kiwoom-get_account_info-0109 I DEBUG    > 계좌번호 : 8143589511
+[2020-09-04 21:38:06,345] I kiwoom.py | Kiwoom-msg_slot-0804 I DEBUG    > 스크린: 2000, 요청이름: 예수금상세현황요청, tr코드: opw00001 --- [00Z310] 모의투자 조회가 완료되었습니다
+[2020-09-04 21:38:06,349] I kiwoom.py | Kiwoom-trdata_slot-0158 I DEBUG    > 예수금 : 10000000
+[2020-09-04 21:38:06,438] I kiwoom.py | Kiwoom-msg_slot-0804 I DEBUG    > 스크린: 2000, 요청이름: 계좌평가잔고내역요청, tr코드: opw00018 --- [00Z310] 모의투자 조회가 완료되었습니다
+[2020-09-04 21:38:06,439] I kiwoom.py | Kiwoom-trdata_slot-0176 I DEBUG    > 계좌평가잔고내역요청 싱글데이터 : 000000000000000 - 000000000000000 - 000000000.00
+[2020-09-04 21:38:06,439] I kiwoom.py | Kiwoom-trdata_slot-0224 I DEBUG    > sPreNext : 
+[2020-09-04 21:38:11,481] I kiwoom.py | Kiwoom-msg_slot-0804 I DEBUG    > 스크린: , 요청이름: , tr코드:  ---  조회가 완료되었습니다.
+[2020-09-04 21:43:50,867] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 21:43:55,105] I kiwoom.py | Kiwoom-login_slot-0098 I DEBUG    > 정상처리
+[2020-09-04 21:43:55,105] I kiwoom.py | Kiwoom-get_account_info-0109 I DEBUG    > 계좌번호 : 8143589511
+[2020-09-04 21:43:55,141] I kiwoom.py | Kiwoom-msg_slot-0804 I DEBUG    > 스크린: 2000, 요청이름: 예수금상세현황요청, tr코드: opw00001 --- [00Z310] 모의투자 조회가 완료되었습니다
+[2020-09-04 21:43:55,144] I kiwoom.py | Kiwoom-trdata_slot-0158 I DEBUG    > 예수금 : 10000000
+[2020-09-04 21:43:55,234] I kiwoom.py | Kiwoom-msg_slot-0804 I DEBUG    > 스크린: 2000, 요청이름: 계좌평가잔고내역요청, tr코드: opw00018 --- [00Z310] 모의투자 조회가 완료되었습니다
+[2020-09-04 21:43:55,237] I kiwoom.py | Kiwoom-trdata_slot-0176 I DEBUG    > 계좌평가잔고내역요청 싱글데이터 : 000000000000000 - 000000000000000 - 000000000.00
+[2020-09-04 21:43:55,237] I kiwoom.py | Kiwoom-trdata_slot-0224 I DEBUG    > sPreNext : 
+[2020-09-04 21:44:00,289] I kiwoom.py | Kiwoom-msg_slot-0804 I DEBUG    > 스크린: , 요청이름: , tr코드:  ---  조회가 완료되었습니다.
+[2020-09-04 21:46:29,127] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 21:46:32,749] I kiwoom.py | Kiwoom-login_slot-0099 I DEBUG    > 정상처리
+[2020-09-04 21:46:32,749] I kiwoom.py | Kiwoom-get_account_info-0110 I DEBUG    > 계좌번호 : 8143589511
+[2020-09-04 21:46:32,787] I kiwoom.py | Kiwoom-msg_slot-0805 I DEBUG    > 스크린: 2000, 요청이름: 예수금상세현황요청, tr코드: opw00001 --- [00Z310] 모의투자 조회가 완료되었습니다
+[2020-09-04 21:46:32,790] I kiwoom.py | Kiwoom-trdata_slot-0159 I DEBUG    > 예수금 : 10000000
+[2020-09-04 21:46:32,879] I kiwoom.py | Kiwoom-msg_slot-0805 I DEBUG    > 스크린: 2000, 요청이름: 계좌평가잔고내역요청, tr코드: opw00018 --- [00Z310] 모의투자 조회가 완료되었습니다
+[2020-09-04 21:46:32,880] I kiwoom.py | Kiwoom-trdata_slot-0177 I DEBUG    > 계좌평가잔고내역요청 싱글데이터 : 000000000000000 - 000000000000000 - 000000000.00
+[2020-09-04 21:46:32,880] I kiwoom.py | Kiwoom-trdata_slot-0225 I DEBUG    > sPreNext : 
+[2020-09-04 21:46:37,941] I kiwoom.py | Kiwoom-msg_slot-0805 I DEBUG    > 스크린: , 요청이름: , tr코드:  ---  조회가 완료되었습니다.
+[2020-09-04 21:50:48,216] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 21:52:54,116] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 21:54:39,356] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 21:55:14,222] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 21:56:48,972] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 22:01:34,224] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 22:05:30,368] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 22:05:48,728] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 22:06:44,674] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 22:09:05,423] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 22:10:07,872] I kiwoom.py | Kiwoom-login_slot-0099 I DEBUG    > 정상처리
+[2020-09-04 22:10:07,872] I kiwoom.py | Kiwoom-get_account_info-0110 I DEBUG    > 계좌번호 : 3804777311
+[2020-09-04 22:10:38,541] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 22:11:28,799] I kiwoom.py | Kiwoom-login_slot-0099 I DEBUG    > 정상처리
+[2020-09-04 22:11:28,799] I kiwoom.py | Kiwoom-get_account_info-0110 I DEBUG    > 계좌번호 : 3804777311
+[2020-09-04 22:11:48,476] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 22:12:20,418] I kiwoom.py | Kiwoom-login_slot-0099 I DEBUG    > 정상처리
+[2020-09-04 22:12:20,418] I kiwoom.py | Kiwoom-get_account_info-0110 I DEBUG    > 계좌번호 : 3804777311
+[2020-09-04 22:12:48,737] I kiwoom.py | Kiwoom-__init__-0017 I DEBUG    > Kiwoom() class start
+[2020-09-04 22:12:57,755] I kiwoom.py | Kiwoom-login_slot-0099 I DEBUG    > 정상처리
+[2020-09-04 22:12:57,755] I kiwoom.py | Kiwoom-get_account_info-0110 I DEBUG    > 계좌번호 : 3804777311
+[2020-09-04 22:12:57,876] I kiwoom.py | Kiwoom-msg_slot-0805 I DEBUG    > 스크린: 2000, 요청이름: 예수금상세현황요청, tr코드: opw00001 --- [100000] 조회가 완료되었습니다.
+[2020-09-04 22:12:57,880] I kiwoom.py | Kiwoom-trdata_slot-0159 I DEBUG    > 예수금 : 166688
+[2020-09-04 22:12:57,972] I kiwoom.py | Kiwoom-msg_slot-0805 I DEBUG    > 스크린: 2000, 요청이름: 계좌평가잔고내역요청, tr코드: opw00018 --- [100000] 조회가 완료되었습니다
+[2020-09-04 22:12:57,973] I kiwoom.py | Kiwoom-trdata_slot-0177 I DEBUG    > 계좌평가잔고내역요청 싱글데이터 : 000000000000000 - 000000000000000 - 000000000000
+[2020-09-04 22:12:57,973] I kiwoom.py | Kiwoom-trdata_slot-0225 I DEBUG    > sPreNext : 
+[2020-09-04 22:13:03,005] I kiwoom.py | Kiwoom-msg_slot-0805 I DEBUG    > 스크린: , 요청이름: , tr코드:  ---  조회가 완료되었습니다.
